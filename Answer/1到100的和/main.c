@@ -2,7 +2,7 @@
 //  main.c
 //  1到100的和
 //
-//  Created by 黄祥河 on 2020/11/28.
+//  Created by 奥秘Sir on 2020/11/28.
 //
 
 #include <stdio.h>

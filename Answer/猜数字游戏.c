@@ -4,7 +4,7 @@
 int main(void){
 	int RandomNumber = rand()%100;   //生成随机数RandomNumber
 	int count = 0;  //猜数字的次数
-	int UserNumber1;
+	int UserNumber;
 
 
 	do{

@@ -4,7 +4,7 @@ int main(void){
 	int A,B;
 	scanf("%d%d",&A,&B);
 	printf("%d + %d = %d\n",A,B,A+B);
-	printf("%d - %d = %d1\n",A,B,A-B);
+	printf("%d - %d = %d\n",A,B,A-B);
 	printf("%d * %d = %d\n",A,B,A*B);
 	printf("%d / %d = %d\n",A,B,A/B);
 

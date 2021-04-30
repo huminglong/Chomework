@@ -10,7 +10,7 @@ int main(void)
 	{
 		if(prime(i) == 1)
 		{
-			printf("%d",i)
+			printf("%d\t",i)；
 		}
 	}
 
